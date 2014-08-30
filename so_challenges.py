@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 
 def challenge_1():
 	string = raw_input('string: ')
